@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Ola. An experienced technical support with a demonstrated history of working in the Information technology and services industry. Skilled in Technical support,  Software development (Web and Mobile Application development).
+My name is Ola. An experienced technical support with a demonstrated history of working in the Information technology and services industry. Skilled in Technical support,  Software development (Web and Mobile Application development). <br>
 My Skills:
   Languages => Javascript, CSS, LESS, SASS, HTML <br>
   Frameworks => Nodejs, React, Redux, React testing, JQuery
