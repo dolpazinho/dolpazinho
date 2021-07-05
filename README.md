@@ -1,12 +1,12 @@
 ### Hi there 👋
 My name is Ola. An experienced technical support with a demonstrated history of working in the Information technology and services industry. Skilled in Technical support,  Software development (Web and Mobile Application development). <br>
-My Skills:
+My Skills: <br>
   Languages => Javascript, CSS, LESS, SASS, HTML <br>
-  Frameworks => Nodejs, React, Redux, React testing, JQuery
-  Paradigms => REST, Agile Software Development
-  Databases => MySQL, SQL Server, MongoDB
-  CMS => Drupal, Typo3, Wordpress
-  Business => PowerBi, Google Analytics, S.E.O
+  Frameworks => Nodejs, React, Redux, React testing, JQuery <br>
+  Paradigms => REST, Agile Software Development <br>
+  Databases => MySQL, SQL Server, MongoDB <br>
+  CMS => Drupal, Typo3, Wordpress <br>
+  Business => PowerBi, Google Analytics, S.E.O <br>
 
 <!--
 **dolpazinho/dolpazinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
