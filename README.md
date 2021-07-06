@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Ola. An experienced technical support with a demonstrated history of working in the Information technology and services industry. Skilled in Technical support,  Software development (Web and Mobile Application development). <br>
 My Skills: <br>
-  Languages => Javascript, CSS, LESS, SASS, HTML <br>
+  Languages => https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png, CSS, LESS, SASS, HTML <br>
   Frameworks => Nodejs, React, Redux, React testing, JQuery <br>
   Paradigms => REST, Agile Software Development <br>
   Databases => MySQL, SQL Server, MongoDB <br>
