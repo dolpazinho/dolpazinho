@@ -4,7 +4,7 @@ An experienced Software developer with a demonstrated history of working in the 
 Skills: Languages => Javascript, CSS, LESS, SASS, HTML Frameworks => Nodejs, React, Redux, React testing, JQuery Paradigms => REST, Agile Software Development Databases => MySQL, SQL Server, MongoDB CMS => Drupal, Typo3, Wordpress Business => PowerBi, Google Analytics, S.E.O
 
 - 🔭 I’m currently working on Developing a driving reposiory app 
-- 🌱 I’m currently learning VueJs, Java 
+- 🌱 I’m currently learning VueJs, DevOps, Azure, Dockers 
 - 👯 I’m looking to collaborate on software development 
 - 💬 Ask me about Information Technology 
 - 😄 Pronouns: He/His 
