@@ -6,7 +6,6 @@ Skills: Languages => Javascript, CSS, LESS, SASS, HTML Frameworks => Nodejs, Rea
 - 🔭 I’m currently working on Developing a driving reposiory app 
 - 🌱 I’m currently learning VueJs, Java 
 - 👯 I’m looking to collaborate on software development 
-- 🤔 I’m looking for help with Enhancing my programming skills 
 - 💬 Ask me about Information Technology 
 - 😄 Pronouns: He/His 
 
