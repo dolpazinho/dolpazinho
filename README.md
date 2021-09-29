@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Ola
+### Hi there 👋, My name is Olasunkanmi Adeniji (But you can call me Ola)
 An experienced Software developer with a demonstrated history of working in the Information technology and services industry. Skilled in Technical support, Software development (Web and Mobile Application development). 
 
 Skills: Languages => Javascript, CSS, LESS, SASS, HTML Frameworks => Nodejs, React, Redux, React testing, JQuery Paradigms => REST, Agile Software Development Databases => MySQL, SQL Server, MongoDB CMS => Drupal, Typo3, Wordpress Business => PowerBi, Google Analytics, S.E.O
