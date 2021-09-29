@@ -1,11 +1,19 @@
 ### Hi there 👋, My name is Olasunkanmi Adeniji (But you can call me Ola)
-An experienced Software developer with a demonstrated history of working in the Information technology and services industry. Skilled in Technical support, Software development (Web and Mobile Application development). 
+An experienced Software developer with a demonstrated history of working in the Information technology and services industry. Skilled in Technical support, Software development (Fullstack) & Mobile App development. 
 
-Skills: Languages => Javascript, CSS, LESS, SASS, HTML Frameworks => Nodejs, React, Redux, React testing, JQuery Paradigms => REST, Agile Software Development Databases => MySQL, SQL Server, MongoDB CMS => Drupal, Typo3, Wordpress Business => PowerBi, Google Analytics, S.E.O
+Skills: Languages => Javascript, CSS, LESS, SASS, HTML 
+Frameworks => Nodejs, React, Redux, React testing
+Backend => PHP, Symfony
+JQuery Paradigms => REST 
+Agile Software Development 
+Databases => MySQL, SQL Server, MongoDB 
+CMS => Drupal, Typo3, Wordpress 
+Business => PowerBi, Google Analytics, S.E.O
 
-- 🔭 I’m currently working on Developing a driving reposiory app 
-- 🌱 I’m currently learning VueJs, DevOps, Azure, Dockers 
-- 👯 I’m looking to collaborate on software development 
+- 🔭 I just completed a project with University of Saskachetwan on Developing a driving reposiory App 
+- 🔭 I'm currently working on Backend Topics with Kaufland.de Germany
+- 🌱 I’m currently learning VueJs, DevOps, Azure, Dockers, Advanced PHP 
+- 👯 I’m looking to collaborate on Software development, Backend Engineering 
 - 💬 Ask me about Information Technology 
 - 😄 Pronouns: He/His 
 
