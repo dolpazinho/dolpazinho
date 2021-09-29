@@ -1,7 +1,7 @@
 ### Hi there 👋, My name is Olasunkanmi Adeniji (But you can call me Ola)
 An experienced Software developer with a demonstrated history of working in the Information technology and services industry. Skilled in Technical support, Software development (Fullstack) & Mobile App development. 
 
-Skills: Languages => Javascript, CSS, LESS, SASS, HTML 
+Skills: Languages => HTML, CSS, Javascript, LESS, SASS  
 Frameworks => Nodejs, React, Redux, React testing
 Backend => PHP, Symfony
 JQuery Paradigms => REST 
