@@ -10,7 +10,7 @@ Databases => MySQL, SQL Server, MongoDB
 CMS => Drupal, Typo3, Wordpress 
 Business => PowerBi, Google Analytics, S.E.O
 
-- 🔭 I just completed a project with University of Saskachetwan on Developing a driving reposiory App 
+- 🔭 I just completed a project with University of Saskachetwan on Developing a driving reposiory App using React Js 
 - 🔭 I'm currently working on Backend Topics with Kaufland.de Germany
 - 🌱 I’m currently learning VueJs, DevOps, Azure, Dockers, Advanced PHP 
 - 👯 I’m looking to collaborate on Software development, Backend Engineering 
