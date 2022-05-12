@@ -6,7 +6,7 @@ Frameworks => Nodejs, React, Redux, React testing
 Backend => PHP, Symfony
 JQuery Paradigms => REST 
 Agile Software Development 
-Databases => MySQL, SQL Server, MongoDB 
+Databases => MySQL, SQL Server, MongoDB <br>
 CMS => Drupal, Typo3, Wordpress 
 Business => PowerBi, Google Analytics, S.E.O
 
