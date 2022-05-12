@@ -5,7 +5,7 @@ Skills: Languages => HTML, CSS, Javascript, LESS, SASS  <br>
 Frameworks => Nodejs, React, React testing <br>
 Backend => PHP, Symfony <br>
 API Development  <br>
-Agile Software Development   <br>
+Agile Methodology   <br>
 Databases => MySQL, SQL Server, MongoDB <br>
 CMS => Drupal, Typo3, Wordpress <br>
 Business => PowerBi, Google Analytics, S.E.O
