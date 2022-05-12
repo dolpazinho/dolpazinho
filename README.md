@@ -3,9 +3,9 @@ An experienced Software developer with a demonstrated history of working in the 
 
 Skills: Languages => HTML, CSS, Javascript, LESS, SASS  <br>
 Frameworks => Nodejs, React, Redux, React testing <br>
-Backend => PHP, Symfony
-JQuery Paradigms => REST 
-Agile Software Development 
+Backend => PHP, Symfony <br>
+JQuery Paradigms => REST  <br>
+Agile Software Development   <br>
 Databases => MySQL, SQL Server, MongoDB <br>
 CMS => Drupal, Typo3, Wordpress <br>
 Business => PowerBi, Google Analytics, S.E.O
