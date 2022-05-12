@@ -10,10 +10,10 @@ Databases => MySQL, SQL Server, MongoDB <br>
 CMS => Drupal, Typo3, Wordpress <br>
 Business => PowerBi, Google Analytics, S.E.O
 
-- 🔭 I just completed a project with University of Saskachetwan on Developing a driving reposiory App using React Js 
-- 🔭 I'm currently working on Backend Topics with Kaufland.de Germany
+- 🔭 I did a project with University of Saskachetwan on Developing a driving reposiory App using React Js 
+- 🔭 I'm currently working on Backend Topics (PHP) with Kaufland.de Germany
 - 🌱 I’m currently learning VueJs, DevOps, Azure, Dockers, Advanced PHP 
-- 👯 I’m looking to collaborate on Software development, Backend Engineering 
+- 👯 I’m looking to collaborate on Software development, Backend Engineering, FullStack Development 
 - 💬 Ask me about Information Technology 
 - 😄 Pronouns: He/His 
 
