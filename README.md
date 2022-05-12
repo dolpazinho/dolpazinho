@@ -2,7 +2,7 @@
 An experienced Software developer with a demonstrated history of working in the Information technology and services industry. Skilled in Technical support, Software development (Fullstack) & Mobile App development. 
 
 Skills: Languages => HTML, CSS, Javascript, LESS, SASS  <br>
-Frameworks => Nodejs, React, Redux, React testing <br>
+Frameworks => Nodejs, React, React testing <br>
 Backend => PHP, Symfony <br>
 JQuery Paradigms => REST  <br>
 Agile Software Development   <br>
