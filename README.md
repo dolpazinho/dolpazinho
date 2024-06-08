@@ -4,7 +4,7 @@ An experienced Software developer with a demonstrated history of working in the 
 Skills: Languages => HTML, CSS, Javascript, LESS, SASS, Bootstrap  <br>
 Frameworks => ReactJS, VueJs, Symfony <br>
 Backend => PHP, Java  <br>
-API Development  <be>
+API Development  <br>
 Cloud Computing => AWS, GCP  <br>
 Automation & Configuration Management => Ansible, Jenkins, Terraform <br>
 Software Development method => Agile Methodology   <br>
