@@ -6,7 +6,8 @@ Frameworks => ReactJS, VueJs, Symfony <br>
 Backend => PHP, Java  <br>
 API Development  <be>
 Cloud Computing => AWS, GCP  <br>
-Agile Methodology   <br>
+Automation & Configuration Management => Ansible, Jenkins, Terraform <br>
+Software Development method => Agile Methodology   <br>
 Databases => MySQL, SQL Server, MongoDB <br>
 CMS => Drupal, Typo3, WordPress <br>
 Network Administration and Management <br>
