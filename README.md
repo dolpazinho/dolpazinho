@@ -1,19 +1,22 @@
 ### Hi there 👋, My name is Olasunkanmi Adeniji (But you can call me Ola)
-An experienced Software developer with a demonstrated history of working in the Information technology and services industry. Skilled in Technical support, Software development (Fullstack) & Mobile App development. 
+An experienced Software developer with a demonstrated history of working in the Cloud and Infrastructure area. Skilled in Technical support, Software development (Fullstack) & DevOps. 
 
 Skills: Languages => HTML, CSS, Javascript, LESS, SASS, Bootstrap  <br>
 Frameworks => ReactJS, VueJs, Symfony <br>
 Backend => PHP, Java  <br>
-API Development  <br>
+API Development  <be>
+Cloud Computing => AWS, GCP  <br>
 Agile Methodology   <br>
 Databases => MySQL, SQL Server, MongoDB <br>
-CMS => Drupal, Typo3, Wordpress <br>
-Business => PowerBi, Google Analytics, S.E.O
+CMS => Drupal, Typo3, WordPress <br>
+Network Administration and Management <br>
 
-- 🔭 I did a project with University of Saskachetwan on Developing a driving reposiory App using React Js 
-- 🔭 I'm currently working on Backend Topics (PHP) with Kaufland.de Germany
-- 🌱 I’m currently learning JS framework in ReactJS, VueJs, DevOps, Azure, Dockers, Advanced PHP 
-- 👯 I’m looking to collaborate on Software development, Backend Engineering, FullStack Development 
+- 🔭 I did a project with the University of Saskatchewan on Developing a driving repository App using React Js
+- 🔭 I'm currently working with Swiss-Commerce as Infrastructure Engineer
+- 🔭 I worked with SAP, Germany on ABAP, RAP, and S4 Hana Tasks.
+- 🔭 I worked on Backend Topics (PHP) with Kaufland.de Germany
+- 🌱 I’m currently developing my skills further in Architecting, Terraform, Automation, Kubernetes, Advanced PHP 
+- 👯 I’m looking to collaborate on Software development, Backend Engineering, FullStack Development, Cloud Development Consultancy, DevOps
 - 💬 Ask me about Information Technology 
 - 😄 Pronouns: He/His 
 
