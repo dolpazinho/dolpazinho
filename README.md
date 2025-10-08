@@ -12,13 +12,15 @@ Databases => MySQL, SQL Server, MongoDB <br>
 CMS => Drupal, Typo3, WordPress <br>
 Network Administration and Management <br>
 
+
+- 🔭 I'm currently working with Johnson Control as CMC IT Technical Engineer
+- 🔭 I previously worked with Swiss-Commerce as Infrastructure Engineer
+- 🔭 I previously worked with SAP, Germany on ABAP, RAP, and S4 Hana Tasks.
+- 🔭 I previously worked on Backend Topics using (PHP) with Kaufland.de Germany
 - 🔭 I did a project with the University of Saskatchewan on Developing a driving repository App using React Js
-- 🔭 I'm currently working with Swiss-Commerce as Infrastructure Engineer
-- 🔭 I worked with SAP, Germany on ABAP, RAP, and S4 Hana Tasks.
-- 🔭 I worked on Backend Topics (PHP) with Kaufland.de Germany
-- 🌱 I’m currently developing my skills further in Architecting, Terraform, Automation, Kubernetes, Advanced PHP 
+- 🌱 I’m currently developing my skills further in Network/Infrastructure Architecting, Terraform, Automation, Kubernetes and other IT skills 
 - 👯 I’m looking to collaborate on Software development, Backend Engineering, FullStack Development, Cloud Development Consultancy, DevOps
-- 💬 Ask me about Information Technology 
+- 💬 Ask me about Information Technology, Programming, Networking 
 - 😄 Pronouns: He/His 
 
 
