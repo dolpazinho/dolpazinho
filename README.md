@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Olasunkanmi Adeniji (But you can call me Ola)
-An experienced Software developer with a demonstrated history of working in the Cloud and Infrastructure area. Skilled in Technical support, Software development (Fullstack) & DevOps. 
+An experienced Software developer with a demonstrated history of working in the Cloud and Infrastructure area. Skilled in IT Infrastructure, Networking, Technical support, Software development (Fullstack) & DevOps. 
 
 Skills: Languages => HTML, CSS, Javascript, LESS, SASS, Bootstrap  <br>
 Frameworks => ReactJS, VueJs, Symfony <br>
